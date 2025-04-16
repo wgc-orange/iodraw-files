@@ -46,8 +46,8 @@
         <mxCell id="pmD7XSyQHurnWAdgrRHc-16" value="业务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="370" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pmD7XSyQHurnWAdgrRHc-17" value="表现层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="150" width="110" height="80" as="geometry" />
+        <mxCell id="pmD7XSyQHurnWAdgrRHc-17" value="数据持久层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
