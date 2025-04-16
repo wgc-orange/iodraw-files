@@ -150,7 +150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ot1a5qG9Q1UCvD-YlPDd-47" value="工具与API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="950" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="930" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ot1a5qG9Q1UCvD-YlPDd-48" value="&amp;nbsp;HTML / CSS / JS" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="190" y="10" width="410" height="80" as="geometry" />
@@ -296,9 +296,6 @@
               <mxPoint x="194" y="380" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ot1a5qG9Q1UCvD-YlPDd-86" value="工具与API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="780" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
