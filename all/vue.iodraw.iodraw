@@ -49,8 +49,8 @@
             <mxPoint x="603" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ot1a5qG9Q1UCvD-YlPDd-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="ot1a5qG9Q1UCvD-YlPDd-16" value="页面容器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
