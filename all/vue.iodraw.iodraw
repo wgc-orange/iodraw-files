@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ot1a5qG9Q1UCvD-YlPDd-31" value="&amp;nbsp;业务页面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="600" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="740" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ot1a5qG9Q1UCvD-YlPDd-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="600" width="490" height="310" as="geometry" />
@@ -131,6 +131,12 @@
         </mxCell>
         <mxCell id="ot1a5qG9Q1UCvD-YlPDd-44" value="admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ot1a5qG9Q1UCvD-YlPDd-45" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="53" y="580" as="sourcePoint" />
+            <mxPoint x="613" y="580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
