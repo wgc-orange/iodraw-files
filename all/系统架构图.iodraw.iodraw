@@ -10,8 +10,8 @@
         <mxCell id="pmD7XSyQHurnWAdgrRHc-2" value="web浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="90" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pmD7XSyQHurnWAdgrRHc-3" value="web浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="230" height="60" as="geometry" />
+        <mxCell id="pmD7XSyQHurnWAdgrRHc-3" value="controller控制层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="180" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
