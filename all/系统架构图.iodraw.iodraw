@@ -22,8 +22,8 @@
             <mxPoint x="460" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pmD7XSyQHurnWAdgrRHc-6" value="controller控制层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="190" width="230" height="60" as="geometry" />
+        <mxCell id="pmD7XSyQHurnWAdgrRHc-6" value="service服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="380" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
