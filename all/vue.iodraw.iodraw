@@ -164,6 +164,9 @@
         <mxCell id="ot1a5qG9Q1UCvD-YlPDd-286" value="assets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="805" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ot1a5qG9Q1UCvD-YlPDd-287" value="网络请求层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="900" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
