@@ -14,11 +14,12 @@
           <mxGeometry x="366" y="500" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-11" value="密码管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="510" width="124" height="49" as="geometry" />
+          <mxGeometry x="580" y="500" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-1" target="30JdoyJPbvqxdtwMBa1O-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="260" y="310" />
               <mxPoint x="200" y="410" />
             </Array>
           </mxGeometry>
