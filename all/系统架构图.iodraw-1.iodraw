@@ -16,15 +16,6 @@
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-71" value="点击“保存修改”按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="187" y="316" width="205" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-72" value="表单校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="233" y="415" width="113" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-73" value="调用前端API: updateUserInfo" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="600" width="170" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-74" value="发送HTTP请求到后端 /sysUser/updateById" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="184" y="716" width="210" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-75" value="后端Controller接收请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="833" width="228" height="49" as="geometry" />
         </mxCell>
@@ -70,24 +61,30 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-71" target="UtgXyBVFnyCl3gGrlA4g-72">
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="289.5" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-89" value="校验通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-72" target="UtgXyBVFnyCl3gGrlA4g-73">
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-89" value="校验通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="289.5" y="528" as="sourcePoint" />
+            <mxPoint x="290" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-73" target="UtgXyBVFnyCl3gGrlA4g-74">
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="290" y="666" as="sourcePoint" />
+            <mxPoint x="289" y="716" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-91" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-74" target="UtgXyBVFnyCl3gGrlA4g-75">
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-91" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="UtgXyBVFnyCl3gGrlA4g-75">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="289" y="782" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-92" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-75" target="UtgXyBVFnyCl3gGrlA4g-76">
