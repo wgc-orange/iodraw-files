@@ -11,15 +11,15 @@
           <mxGeometry x="150" y="150" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-58" value="预测用户对未评分考试的兴趣" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="686" y="119" width="252" height="66" as="geometry" />
+          <mxGeometry x="424" y="150" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-59" value="生成推荐考试列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="988" y="127" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-63" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="30JdoyJPbvqxdtwMBa1O-57">
+        <mxCell id="30JdoyJPbvqxdtwMBa1O-63" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0.01;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-54" target="30JdoyJPbvqxdtwMBa1O-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="550" y="69" as="sourcePoint" />
+            <mxPoint x="450" y="50" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-54" target="30JdoyJPbvqxdtwMBa1O-58">
