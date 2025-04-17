@@ -16,9 +16,6 @@
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-71" value="点击“保存修改”按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="187" y="316" width="205" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-78" value="更新是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="217" y="1146" width="145" height="145" as="geometry" />
-        </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-68" target="UtgXyBVFnyCl3gGrlA4g-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -40,8 +37,14 @@
             <mxPoint x="289.5" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-101" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="1327" width="538" height="399" as="geometry" />
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-102" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="19" y="429" width="538" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-78" value="更新是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-102">
+          <mxGeometry x="197" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-101" value="" style="group" vertex="1" connectable="0" parent="UtgXyBVFnyCl3gGrlA4g-102">
+          <mxGeometry y="181" width="538" height="399" as="geometry" />
         </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-79" value="返回成功响应" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-101">
           <mxGeometry x="44" y="36" width="156" height="49" as="geometry" />
@@ -61,20 +64,6 @@
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-84" value="前端收到响应，提示“修改失败”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-101">
           <mxGeometry x="294" y="135" width="244" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-95" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-101" source="UtgXyBVFnyCl3gGrlA4g-78" target="UtgXyBVFnyCl3gGrlA4g-79">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="122" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-96" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-101" source="UtgXyBVFnyCl3gGrlA4g-78" target="UtgXyBVFnyCl3gGrlA4g-80">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="417" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-101" source="UtgXyBVFnyCl3gGrlA4g-79" target="UtgXyBVFnyCl3gGrlA4g-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -93,6 +82,20 @@
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-101" source="UtgXyBVFnyCl3gGrlA4g-80" target="UtgXyBVFnyCl3gGrlA4g-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-95" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-102" source="UtgXyBVFnyCl3gGrlA4g-78" target="UtgXyBVFnyCl3gGrlA4g-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="122" y="181" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-96" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-102" source="UtgXyBVFnyCl3gGrlA4g-78" target="UtgXyBVFnyCl3gGrlA4g-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="417" y="181" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
