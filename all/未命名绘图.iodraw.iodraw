@@ -11,13 +11,13 @@
           <mxGeometry x="500" y="500" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-6" value="添加用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="890" y="489" width="124" height="49" as="geometry" />
+          <mxGeometry x="1030" y="500" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-9" value="编辑用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="489" width="124" height="49" as="geometry" />
+          <mxGeometry x="1200" y="500" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-12" value="删除用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1491" y="489" width="124" height="49" as="geometry" />
+          <mxGeometry x="1380" y="500" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-15" value="密码管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1752" y="489" width="124" height="49" as="geometry" />
