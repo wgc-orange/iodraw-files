@@ -8,13 +8,13 @@
           <mxGeometry x="1272" y="390" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-2" value="用户列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="500" y="500" width="124" height="49" as="geometry" />
+          <mxGeometry x="930" y="510" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-6" value="添加用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="500" width="124" height="49" as="geometry" />
+          <mxGeometry x="1080" y="500" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-9" value="编辑用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="500" width="124" height="49" as="geometry" />
+          <mxGeometry x="1230" y="500" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-12" value="删除用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1380" y="500" width="124" height="49" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="1530" y="500" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-17" value="权限与状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="500" width="141" height="49" as="geometry" />
+          <mxGeometry x="1680" y="500" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-1" target="sNWnyotTlyAG8NS7gzUr-2">
           <mxGeometry relative="1" as="geometry">
