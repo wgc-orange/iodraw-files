@@ -8,13 +8,13 @@
           <mxGeometry x="1272" y="390" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-2" value="用户列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="214" y="489" width="124" height="49" as="geometry" />
+          <mxGeometry x="500" y="500" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-6" value="添加用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="691" y="489" width="124" height="49" as="geometry" />
+          <mxGeometry x="890" y="489" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-9" value="编辑用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1104" y="489" width="124" height="49" as="geometry" />
+          <mxGeometry x="1120" y="489" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-12" value="删除用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1491" y="489" width="124" height="49" as="geometry" />
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-17" value="权限与状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2012" y="489" width="141" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-19" value="启用/禁用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2105" y="587" width="132" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-1" target="sNWnyotTlyAG8NS7gzUr-2">
           <mxGeometry relative="1" as="geometry">
@@ -67,21 +64,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2082" y="464" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1993" y="562" />
-            </Array>
-            <mxPoint x="1993" y="587" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-17" target="sNWnyotTlyAG8NS7gzUr-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2171" y="562" />
             </Array>
           </mxGeometry>
         </mxCell>
