@@ -25,21 +25,6 @@
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-109" value="用户确认报名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="266" y="616" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-112" value="报名是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="272" y="912" width="145" height="145" as="geometry" />
-        </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-113" value="返回成功响应" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="127" y="1129" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-114" value="返回失败响应" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="405" y="1129" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-115" value="前端提示“报名成功”并更新状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="78" y="1228" width="253" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-116" value="前端提示“报名失败”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="381" y="1237" width="205" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-117" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-103" target="UtgXyBVFnyCl3gGrlA4g-104">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -80,26 +65,44 @@
             <mxPoint x="344.5" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-126" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-112" target="UtgXyBVFnyCl3gGrlA4g-113">
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-130" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="79" y="718" width="508" height="382" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-112" value="报名是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-130">
+          <mxGeometry x="194" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-113" value="返回成功响应" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-130">
+          <mxGeometry x="49" y="217" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-114" value="返回失败响应" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-130">
+          <mxGeometry x="327" y="217" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-115" value="前端提示“报名成功”并更新状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-130">
+          <mxGeometry y="316" width="253" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-116" value="前端提示“报名失败”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-130">
+          <mxGeometry x="303" y="325" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-126" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-130" source="UtgXyBVFnyCl3gGrlA4g-112" target="UtgXyBVFnyCl3gGrlA4g-113">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="205" y="1093" />
+              <mxPoint x="127" y="181" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-127" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-112" target="UtgXyBVFnyCl3gGrlA4g-114">
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-127" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-130" source="UtgXyBVFnyCl3gGrlA4g-112" target="UtgXyBVFnyCl3gGrlA4g-114">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="483" y="1093" />
+              <mxPoint x="405" y="181" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-128" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-113" target="UtgXyBVFnyCl3gGrlA4g-115">
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-128" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-130" source="UtgXyBVFnyCl3gGrlA4g-113" target="UtgXyBVFnyCl3gGrlA4g-115">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-129" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-114" target="UtgXyBVFnyCl3gGrlA4g-116">
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-129" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-130" source="UtgXyBVFnyCl3gGrlA4g-114" target="UtgXyBVFnyCl3gGrlA4g-116">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
