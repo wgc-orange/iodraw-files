@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-102" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="19" y="429" width="538" height="580" as="geometry" />
+          <mxGeometry x="22" y="412" width="538" height="580" as="geometry" />
         </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-78" value="更新是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-102">
           <mxGeometry x="197" width="145" height="145" as="geometry" />
