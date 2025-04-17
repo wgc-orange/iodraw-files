@@ -1,0 +1,221 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="2314" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-1" value="用户管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1272" y="390" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-2" value="用户列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="214" y="489" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-3" value="分页查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="587" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-4" value="模糊搜索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="214" y="587" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-5" value="查看用户详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="388" y="587" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-6" value="添加用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="691" y="489" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-7" value="表单校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="594" y="587" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-8" value="设置角色/状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="768" y="587" width="164" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-9" value="编辑用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1104" y="489" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-10" value="修改基本信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="982" y="587" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-11" value="修改角色/状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1189" y="587" width="165" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-12" value="删除用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1491" y="489" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-13" value="单个删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1404" y="587" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-14" value="批量删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1578" y="587" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-15" value="密码管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1752" y="489" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-16" value="修改密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1752" y="587" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-17" value="权限与状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2012" y="489" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-18" value="角色分配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1931" y="587" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-19" value="启用/禁用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2105" y="587" width="132" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-1" target="sNWnyotTlyAG8NS7gzUr-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="276" y="464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-2" target="sNWnyotTlyAG8NS7gzUr-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="102" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-2" target="sNWnyotTlyAG8NS7gzUr-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-2" target="sNWnyotTlyAG8NS7gzUr-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="466" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-1" target="sNWnyotTlyAG8NS7gzUr-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="753" y="464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-6" target="sNWnyotTlyAG8NS7gzUr-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="656" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-6" target="sNWnyotTlyAG8NS7gzUr-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-1" target="sNWnyotTlyAG8NS7gzUr-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1166" y="464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-9" target="sNWnyotTlyAG8NS7gzUr-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1061" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-9" target="sNWnyotTlyAG8NS7gzUr-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1272" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.88;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-1" target="sNWnyotTlyAG8NS7gzUr-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1553" y="464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-12" target="sNWnyotTlyAG8NS7gzUr-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1466" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-12" target="sNWnyotTlyAG8NS7gzUr-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1640" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-1" target="sNWnyotTlyAG8NS7gzUr-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1814" y="464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-15" target="sNWnyotTlyAG8NS7gzUr-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-1" target="sNWnyotTlyAG8NS7gzUr-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2082" y="464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-17" target="sNWnyotTlyAG8NS7gzUr-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1993" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-17" target="sNWnyotTlyAG8NS7gzUr-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2171" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
