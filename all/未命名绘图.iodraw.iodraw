@@ -16,32 +16,14 @@
         <mxCell id="sNWnyotTlyAG8NS7gzUr-9" value="编辑用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1104" y="489" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-10" value="修改基本信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="982" y="587" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-11" value="修改角色/状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1189" y="587" width="165" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-12" value="删除用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1491" y="489" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-13" value="单个删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1404" y="587" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-14" value="批量删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1578" y="587" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-15" value="密码管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1752" y="489" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-16" value="修改密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1752" y="587" width="125" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-17" value="权限与状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2012" y="489" width="141" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-18" value="角色分配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1931" y="587" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-19" value="启用/禁用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2105" y="587" width="132" height="49" as="geometry" />
@@ -67,38 +49,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-9" target="sNWnyotTlyAG8NS7gzUr-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1061" y="562" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-9" target="sNWnyotTlyAG8NS7gzUr-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1272" y="562" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.88;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-1" target="sNWnyotTlyAG8NS7gzUr-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1553" y="464" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-12" target="sNWnyotTlyAG8NS7gzUr-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1466" y="562" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-12" target="sNWnyotTlyAG8NS7gzUr-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1640" y="562" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -109,11 +63,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-15" target="sNWnyotTlyAG8NS7gzUr-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-1" target="sNWnyotTlyAG8NS7gzUr-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -121,11 +70,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sNWnyotTlyAG8NS7gzUr-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-17" target="sNWnyotTlyAG8NS7gzUr-18">
+        <mxCell id="sNWnyotTlyAG8NS7gzUr-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1993" y="562" />
             </Array>
+            <mxPoint x="1993" y="587" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sNWnyotTlyAG8NS7gzUr-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="sNWnyotTlyAG8NS7gzUr-17" target="sNWnyotTlyAG8NS7gzUr-19">
