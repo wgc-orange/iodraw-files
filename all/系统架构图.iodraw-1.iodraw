@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-159" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="303" y="763" width="258" height="481" as="geometry" />
+          <mxGeometry x="310" y="654" width="258" height="481" as="geometry" />
         </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-139" value="后端构建用户-考试评分矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-159">
           <mxGeometry width="258" height="49" as="geometry" />
@@ -99,6 +99,13 @@
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-157" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-158" source="UtgXyBVFnyCl3gGrlA4g-143" target="UtgXyBVFnyCl3gGrlA4g-144">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-160" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="442" y="517" as="sourcePoint" />
+            <mxPoint x="442" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
