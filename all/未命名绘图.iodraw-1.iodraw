@@ -10,20 +10,8 @@
         <mxCell id="30JdoyJPbvqxdtwMBa1O-2" value="用户信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="285" y="489" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-5" value="用户修改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="388" y="587" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-6" value="用户删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="562" y="587" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-7" value="用户认证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="910" y="489" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-8" value="用户登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="736" y="587" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-9" value="用户注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="910" y="587" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-10" value="退出登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1084" y="587" width="124" height="49" as="geometry" />
@@ -41,42 +29,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-2" target="30JdoyJPbvqxdtwMBa1O-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="450" y="562" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.79;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-2" target="30JdoyJPbvqxdtwMBa1O-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="624" y="562" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-1" target="30JdoyJPbvqxdtwMBa1O-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-7" target="30JdoyJPbvqxdtwMBa1O-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="798" y="562" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-7" target="30JdoyJPbvqxdtwMBa1O-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-7" target="30JdoyJPbvqxdtwMBa1O-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1146" y="562" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-1" target="30JdoyJPbvqxdtwMBa1O-11">
