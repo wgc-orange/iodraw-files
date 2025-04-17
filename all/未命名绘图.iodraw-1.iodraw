@@ -1,88 +1,60 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2314" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1487" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-1" value="用户管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="300" width="156" height="49" as="geometry" />
+        <mxCell id="30JdoyJPbvqxdtwMBa1O-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="880" y="570" width="862" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-2" value="用户信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="500" width="156" height="49" as="geometry" />
+        <mxCell id="30JdoyJPbvqxdtwMBa1O-26" value="考试信息模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="30JdoyJPbvqxdtwMBa1O-53">
+          <mxGeometry x="376" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-7" value="用户认证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="366" y="500" width="124" height="49" as="geometry" />
+        <mxCell id="30JdoyJPbvqxdtwMBa1O-27" value="考试信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="30JdoyJPbvqxdtwMBa1O-53">
+          <mxGeometry y="99" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-11" value="密码管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="500" width="124" height="49" as="geometry" />
+        <mxCell id="30JdoyJPbvqxdtwMBa1O-32" value="考试列表与详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="30JdoyJPbvqxdtwMBa1O-53">
+          <mxGeometry x="180" y="99" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-1" target="30JdoyJPbvqxdtwMBa1O-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="30JdoyJPbvqxdtwMBa1O-35" value="考试报名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="30JdoyJPbvqxdtwMBa1O-53">
+          <mxGeometry x="392" y="99" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.449;entryY=0;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-1" target="30JdoyJPbvqxdtwMBa1O-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="438" y="359" as="sourcePoint" />
-            <mxPoint x="438" y="510" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="30JdoyJPbvqxdtwMBa1O-38" value="推荐考试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="30JdoyJPbvqxdtwMBa1O-53">
+          <mxGeometry x="550" y="99" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-1" target="30JdoyJPbvqxdtwMBa1O-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="448" y="369" as="sourcePoint" />
-            <mxPoint x="448" y="520" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="30JdoyJPbvqxdtwMBa1O-39" value="考试评分与评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="30JdoyJPbvqxdtwMBa1O-53">
+          <mxGeometry x="690" y="99" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-26" value="考试信息模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1256" y="570" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-27" value="考试信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="880" y="669" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-32" value="考试列表与详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="669" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-35" value="考试报名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1272" y="669" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-38" value="推荐考试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="669" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-39" value="考试评分与评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="669" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-26" target="30JdoyJPbvqxdtwMBa1O-27">
+        <mxCell id="30JdoyJPbvqxdtwMBa1O-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="30JdoyJPbvqxdtwMBa1O-53" source="30JdoyJPbvqxdtwMBa1O-26" target="30JdoyJPbvqxdtwMBa1O-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="900" y="620" />
+              <mxPoint x="20" y="50" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-26" target="30JdoyJPbvqxdtwMBa1O-32">
+        <mxCell id="30JdoyJPbvqxdtwMBa1O-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="30JdoyJPbvqxdtwMBa1O-53" source="30JdoyJPbvqxdtwMBa1O-26" target="30JdoyJPbvqxdtwMBa1O-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1110" y="630" />
+              <mxPoint x="230" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-26" target="30JdoyJPbvqxdtwMBa1O-35">
+        <mxCell id="30JdoyJPbvqxdtwMBa1O-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="30JdoyJPbvqxdtwMBa1O-53" source="30JdoyJPbvqxdtwMBa1O-26" target="30JdoyJPbvqxdtwMBa1O-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-26" target="30JdoyJPbvqxdtwMBa1O-38">
+        <mxCell id="30JdoyJPbvqxdtwMBa1O-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="30JdoyJPbvqxdtwMBa1O-53" source="30JdoyJPbvqxdtwMBa1O-26" target="30JdoyJPbvqxdtwMBa1O-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1508" y="644" />
+              <mxPoint x="628" y="74" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-26" target="30JdoyJPbvqxdtwMBa1O-39">
+        <mxCell id="30JdoyJPbvqxdtwMBa1O-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="30JdoyJPbvqxdtwMBa1O-53" source="30JdoyJPbvqxdtwMBa1O-26" target="30JdoyJPbvqxdtwMBa1O-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1706" y="644" />
+              <mxPoint x="826" y="74" />
             </Array>
           </mxGeometry>
         </mxCell>
