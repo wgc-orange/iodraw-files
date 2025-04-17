@@ -25,15 +25,6 @@
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-137" value="后端获取所有考试数据，用户评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="322" y="565" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-139" value="后端构建用户-考试评分矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="303" y="763" width="258" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-140" value="后端计算用户与其他用户的相似度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="306" y="861" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-141" value="后端预测用户对未评分考试的兴趣" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="306" y="978" width="252" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-145" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-131" target="UtgXyBVFnyCl3gGrlA4g-132">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -68,24 +59,36 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-153" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-139" target="UtgXyBVFnyCl3gGrlA4g-140">
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-159" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="303" y="763" width="258" height="481" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-139" value="后端构建用户-考试评分矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-159">
+          <mxGeometry width="258" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-140" value="后端计算用户与其他用户的相似度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-159">
+          <mxGeometry x="3" y="98" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-141" value="后端预测用户对未评分考试的兴趣" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-159">
+          <mxGeometry x="3" y="215" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-153" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-159" source="UtgXyBVFnyCl3gGrlA4g-139" target="UtgXyBVFnyCl3gGrlA4g-140">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-154" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-140" target="UtgXyBVFnyCl3gGrlA4g-141">
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-154" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-159" source="UtgXyBVFnyCl3gGrlA4g-140" target="UtgXyBVFnyCl3gGrlA4g-141">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-155" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.478;entryY=0.059;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-141" target="UtgXyBVFnyCl3gGrlA4g-143">
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-155" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.478;entryY=0.059;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-159" source="UtgXyBVFnyCl3gGrlA4g-141" target="UtgXyBVFnyCl3gGrlA4g-143">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="432" y="1094" as="targetPoint" />
+            <mxPoint x="129" y="331" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-158" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="1100" width="188" height="148" as="geometry" />
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-158" value="" style="group" vertex="1" connectable="0" parent="UtgXyBVFnyCl3gGrlA4g-159">
+          <mxGeometry x="41" y="333" width="188" height="148" as="geometry" />
         </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-143" value="返回推荐考试列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-158">
           <mxGeometry width="188" height="49" as="geometry" />
