@@ -39,7 +39,7 @@
           <mxGeometry x="1256" y="570" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-27" value="考试信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="385" y="669" width="156" height="49" as="geometry" />
+          <mxGeometry x="880" y="669" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-32" value="考试列表与详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1060" y="669" width="172" height="49" as="geometry" />
@@ -56,7 +56,7 @@
         <mxCell id="30JdoyJPbvqxdtwMBa1O-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-26" target="30JdoyJPbvqxdtwMBa1O-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="463" y="644" />
+              <mxPoint x="900" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
