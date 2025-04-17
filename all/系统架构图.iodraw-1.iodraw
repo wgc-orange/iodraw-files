@@ -34,12 +34,6 @@
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-141" value="后端预测用户对未评分考试的兴趣" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="306" y="978" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-143" value="返回推荐考试列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="338" y="1210" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-144" value="前端展示推荐考试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="338" y="1309" width="188" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-145" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-131" target="UtgXyBVFnyCl3gGrlA4g-132">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -90,7 +84,16 @@
             <mxPoint x="432" y="1094" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-157" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-143" target="UtgXyBVFnyCl3gGrlA4g-144">
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-158" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="338" y="1210" width="188" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-143" value="返回推荐考试列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-158">
+          <mxGeometry width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-144" value="前端展示推荐考试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UtgXyBVFnyCl3gGrlA4g-158">
+          <mxGeometry y="99" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UtgXyBVFnyCl3gGrlA4g-157" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="UtgXyBVFnyCl3gGrlA4g-158" source="UtgXyBVFnyCl3gGrlA4g-143" target="UtgXyBVFnyCl3gGrlA4g-144">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
