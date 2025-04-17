@@ -8,19 +8,13 @@
           <mxGeometry x="894" y="390" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-2" value="用户信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="285" y="489" width="156" height="49" as="geometry" />
+          <mxGeometry x="390" y="489" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-7" value="用户认证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="910" y="489" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-10" value="退出登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1084" y="587" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-11" value="密码管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1258" y="489" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-12" value="修改密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1258" y="587" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-1" target="30JdoyJPbvqxdtwMBa1O-2">
           <mxGeometry relative="1" as="geometry">
@@ -39,11 +33,6 @@
             <Array as="points">
               <mxPoint x="1320" y="464" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-11" target="30JdoyJPbvqxdtwMBa1O-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
