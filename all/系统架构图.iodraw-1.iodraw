@@ -25,9 +25,6 @@
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-137" value="后端获取所有考试数据，用户评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="322" y="565" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-138" value="后端获取所有用户评分数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="306" y="664" width="252" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-139" value="后端构建用户-考试评分矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="303" y="763" width="258" height="49" as="geometry" />
         </mxCell>
@@ -76,16 +73,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UtgXyBVFnyCl3gGrlA4g-150" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-136" target="UtgXyBVFnyCl3gGrlA4g-137">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-151" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-137" target="UtgXyBVFnyCl3gGrlA4g-138">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UtgXyBVFnyCl3gGrlA4g-152" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UtgXyBVFnyCl3gGrlA4g-138" target="UtgXyBVFnyCl3gGrlA4g-139">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
