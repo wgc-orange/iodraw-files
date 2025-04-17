@@ -42,7 +42,7 @@
           <mxGeometry x="385" y="669" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-32" value="考试列表与详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="669" width="172" height="49" as="geometry" />
+          <mxGeometry x="1060" y="669" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-35" value="考试报名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1272" y="669" width="124" height="49" as="geometry" />
@@ -70,14 +70,6 @@
         <mxCell id="30JdoyJPbvqxdtwMBa1O-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-26" target="30JdoyJPbvqxdtwMBa1O-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="30JdoyJPbvqxdtwMBa1O-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1421" y="742" />
-            </Array>
-            <mxPoint x="1421" y="767" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="30JdoyJPbvqxdtwMBa1O-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="30JdoyJPbvqxdtwMBa1O-26" target="30JdoyJPbvqxdtwMBa1O-38">
